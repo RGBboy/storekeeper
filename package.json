@@ -2,7 +2,7 @@
   "name": "storekeeper",
   "version": "0.0.1",
   "description": "Simple name value storage with emitted events.",
-  "keywords": ["events", "listener"],
+  "keywords": ["store", "hash", "events", "listener"],
   "author": "RGBboy <me@rgbboy.com>",
   "repository" : {
     "type" : "git",
